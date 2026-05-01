@@ -1,0 +1,205 @@
+{
+  "name": "Slovakia Elections Theme",
+  "dataColors": [
+    "#0B3D91",
+    "#CF2B37",
+    "#FFFFFF",
+    "#1A5CB8",
+    "#8B1A22",
+    "#4A7CC7",
+    "#E8A0A5",
+    "#D0D8E8"
+  ],
+  "background": "#F4F6FA",
+  "foreground": "#1A1A2E",
+  "tableAccent": "#0B3D91",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "fontSize": [{ "value": 11 }],
+        "background": [{ "color": { "solid": { "color": "#FFFFFF" } } }]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#F4F6FA" } } }],
+        "outspace": [{ "color": { "solid": { "color": "#E8ECF4" } } }]
+      }
+    },
+    "title": {
+      "*": {
+        "fontFamily": [{ "value": "Segoe UI Semibold" }],
+        "fontSize": [{ "value": 18 }],
+        "fontColor": [{ "color": { "solid": { "color": "#0B3D91" } } }],
+        "background": [{ "color": { "solid": { "color": "#FFFFFF" } } }]
+      }
+    },
+    "card": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#FFFFFF" } } }],
+        "border": [{
+          "show": true,
+          "color": { "solid": { "color": "#0B3D91" } },
+          "radius": 4
+        }],
+        "shadow": [{
+          "show": true,
+          "color": { "solid": { "color": "#C0C8D8" } },
+          "position": "outer"
+        }],
+        "calloutValue": [{
+          "fontFamily": "Segoe UI Semibold",
+          "fontSize": 28,
+          "fontColor": { "solid": { "color": "#0B3D91" } }
+        }],
+        "label": [{
+          "fontFamily": "Segoe UI",
+          "fontSize": 11,
+          "fontColor": { "solid": { "color": "#5A6478" } }
+        }]
+      }
+    },
+    "barChart": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#FFFFFF" } } }],
+        "border": [{
+          "show": true,
+          "color": { "solid": { "color": "#DDE3EE" } },
+          "radius": 4
+        }],
+        "shadow": [{
+          "show": true,
+          "color": { "solid": { "color": "#C0C8D8" } },
+          "position": "outer"
+        }],
+        "categoryAxis": [{
+          "labelColor": { "solid": { "color": "#3A4259" } },
+          "fontSize": 11
+        }],
+        "valueAxis": [{
+          "labelColor": { "solid": { "color": "#3A4259" } },
+          "fontSize": 11,
+          "gridlineColor": { "solid": { "color": "#E8ECF4" } }
+        }]
+      }
+    },
+    "columnChart": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#FFFFFF" } } }],
+        "border": [{
+          "show": true,
+          "color": { "solid": { "color": "#DDE3EE" } },
+          "radius": 4
+        }],
+        "shadow": [{
+          "show": true,
+          "color": { "solid": { "color": "#C0C8D8" } },
+          "position": "outer"
+        }],
+        "categoryAxis": [{
+          "labelColor": { "solid": { "color": "#3A4259" } },
+          "fontSize": 11
+        }],
+        "valueAxis": [{
+          "labelColor": { "solid": { "color": "#3A4259" } },
+          "fontSize": 11,
+          "gridlineColor": { "solid": { "color": "#E8ECF4" } }
+        }]
+      }
+    },
+    "lineChart": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#FFFFFF" } } }],
+        "border": [{
+          "show": true,
+          "color": { "solid": { "color": "#DDE3EE" } },
+          "radius": 4
+        }],
+        "shadow": [{
+          "show": true,
+          "color": { "solid": { "color": "#C0C8D8" } },
+          "position": "outer"
+        }]
+      }
+    },
+    "slicer": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#FFFFFF" } } }],
+        "border": [{
+          "show": true,
+          "color": { "solid": { "color": "#DDE3EE" } },
+          "radius": 4
+        }],
+        "data": [{
+          "fontColor": { "solid": { "color": "#1A1A2E" } },
+          "fontSize": 11
+        }],
+        "selection": [{
+          "selectAllCheckboxEnabled": true,
+          "singleSelect": false
+        }]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#FFFFFF" } } }],
+        "border": [{
+          "show": true,
+          "color": { "solid": { "color": "#DDE3EE" } },
+          "radius": 4
+        }],
+        "header": [{
+          "fontColor": { "solid": { "color": "#FFFFFF" } },
+          "background": { "solid": { "color": "#0B3D91" } },
+          "fontSize": 11,
+          "fontFamily": "Segoe UI Semibold"
+        }],
+        "values": [{
+          "fontColor": { "solid": { "color": "#1A1A2E" } },
+          "background": { "solid": { "color": "#FFFFFF" } },
+          "fontSize": 11
+        }],
+        "grid": [{
+          "gridVertical": false,
+          "gridHorizontalColor": { "solid": { "color": "#E8ECF4" } }
+        }]
+      }
+    },
+    "textbox": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#0B3D91" } } }],
+        "border": [{ "show": false }]
+      }
+    }
+  },
+  "textClasses": {
+    "callout": {
+      "fontSize": 45,
+      "fontFace": "DIN",
+      "color": "#0B3D91"
+    },
+    "title": {
+      "fontSize": 18,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#0B3D91"
+    },
+    "header": {
+      "fontSize": 13,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1A1A2E"
+    },
+    "label": {
+      "fontSize": 11,
+      "fontFace": "Segoe UI",
+      "color": "#5A6478"
+    }
+  },
+  "good": "#2E7D32",
+  "neutral": "#F9A825",
+  "bad": "#CF2B37",
+  "maximum": "#0B3D91",
+  "center": "#4A7CC7",
+  "minimum": "#E8ECF4",
+  "null": "#C0C8D8"
+}
