@@ -22,6 +22,7 @@ Official Slovak election data: [volby.statistics.sk](https://volby.statistics.sk
 - Power BI Desktop
 - DAX
 - Custom TopoJSON/GeoJSON
+- Custom Power BI theme (Slovak flag colors)
 
 ## Key Insights
 - Voter turnout increased from 51.92% to 61.15% between rounds
