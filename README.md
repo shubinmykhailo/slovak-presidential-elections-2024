@@ -8,6 +8,9 @@ The dashboard consists of 3 pages:
 - **Round 2** – Results with dynamic map modes (vote share, turnout, winner by district)
 - **Comparison** – Side-by-side turnout and vote comparison across both rounds
 
+## Live Demo
+[View Dashboard](https://app.powerbi.com/groups/me/reports/95ebee39-925d-4b3a-8eea-054bc5291d7c/9eb934369664c5908b9e?experience=power-bi)
+
 **Round 1 – District view with custom tooltip**
 <img width="1428" height="798" alt="Screenshot 2026-05-01 225157" src="https://github.com/user-attachments/assets/eb9ea7e2-6da7-4e9e-8af9-dd425ba097ff" />
 
