@@ -27,9 +27,6 @@ The dashboard consists of 3 pages:
 - Drill-through pages for both geographic levels
 - Bookmark-based map type switcher
 
-## Data Source
-Official Slovak election data: [volby.statistics.sk](https://volby.statistics.sk)
-
 ## Tools
 - Power BI Desktop
 - DAX
@@ -39,7 +36,7 @@ Official Slovak election data: [volby.statistics.sk](https://volby.statistics.sk
 ## Key Questions & Answers
 
 **Who won Round 1 and why did the result change in Round 2?**  
-Korčok won Round 1 nationally but lost Round 2 to Pellegrini. The Comparison page shows that Pellegrini successfully mobilized voters in central and eastern regions between rounds.
+Korčok won Round 1 with 42.5% vs Pellegrini's 37%. In Round 2, Pellegrini won 53% — he secured endorsements from Forró (4th place, 2.9%), Kubiš, Náhlik and Danko, plus open support from PM Fico. Korčok was backed by Dubovský and Matovič. Pellegrini successfully  won 61 out of 79 districts.
 
 **How did voter turnout change between rounds?**  
 Turnout increased significantly from 51.92% to 61.15%, suggesting higher voter engagement in the decisive round.
@@ -49,3 +46,7 @@ Korčok dominated Bratislava and western districts. Pellegrini dominated central
 
 **Where was turnout lowest?**  
 Southern and southeastern districts consistently showed the lowest turnout in both rounds.
+
+## Data Source
+Official Slovak election data: [volby.statistics.sk](https://volby.statistics.sk)
+[Wikipedia](https://en.wikipedia.org/wiki/2024_Slovak_presidential_election), [Geopolitique.eu](https://geopolitique.eu/en/articles/presidential-election-in-slovakia-march-april-2024/)*
