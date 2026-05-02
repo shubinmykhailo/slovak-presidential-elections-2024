@@ -36,9 +36,16 @@ Official Slovak election data: [volby.statistics.sk](https://volby.statistics.sk
 - Custom TopoJSON/GeoJSON
 - Custom Power BI theme (Slovak flag colors)
 
-## Key Insights
-- Voter turnout increased from 51.92% to 61.15% between rounds
-- Korčok won Round 1 but lost Round 2 to Pellegrini
-- Pellegrini dominated central, eastern and northern Slovakia
-- Korčok's stronghold was Bratislava and western districts
-- Turnout was lowest in southern and southeastern districts
+## Key Questions & Answers
+
+**Who won Round 1 and why did the result change in Round 2?**  
+Korčok won Round 1 nationally but lost Round 2 to Pellegrini. The Comparison page shows that Pellegrini successfully mobilized voters in central and eastern regions between rounds.
+
+**How did voter turnout change between rounds?**  
+Turnout increased significantly from 51.92% to 61.15%, suggesting higher voter engagement in the decisive round.
+
+**Where were each candidate's strongholds?**  
+Korčok dominated Bratislava and western districts. Pellegrini dominated central, eastern and northern Slovakia.
+
+**Where was turnout lowest?**  
+Southern and southeastern districts consistently showed the lowest turnout in both rounds.
