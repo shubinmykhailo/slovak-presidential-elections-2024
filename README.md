@@ -18,7 +18,7 @@ The dashboard consists of 4 pages:
 **Round 2 – Vote count by region**
 ![Round 2 – Vote count by region](img/2.png)
 
-**Comparison page – Bratislava selected**
+**Comparison page –  Bratislava selected**
 ![Comparison page – Bratislava selected](img/3.png)
 
 **Swing Analysis**
